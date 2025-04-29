@@ -1,5 +1,6 @@
-# SLP-Mount-Everest
+# SLP- Simple Landing Pages
 
+# Landing Page 1
 A simple landing page for Mount Everest using HTML and CSS.
 
 <h1>HTML</h1>
